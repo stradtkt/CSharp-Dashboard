@@ -1,0 +1,11 @@
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\bin\Debug\netcoreapp2.0\LoginPlus.deps.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\bin\Debug\netcoreapp2.0\LoginPlus.runtimeconfig.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\bin\Debug\netcoreapp2.0\LoginPlus.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\bin\Debug\netcoreapp2.0\LoginPlus.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\bin\Debug\netcoreapp2.0\LoginPlus.pdb
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\LoginPlus\obj\Debug\netcoreapp2.0\LoginPlus.pdb

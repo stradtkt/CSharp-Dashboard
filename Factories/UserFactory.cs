@@ -38,5 +38,34 @@ namespace LoginPlus.Factory
                 dbConnection.Execute(query, user);
             }
         }
+        public User GetUserByEmail(string Email)
+        {
+            using(IDbConnection dbConnection = Connection)
+            {
+                var query = $"SELECT email FROM users WHERE users.email = {Email}";
+                dbConnection.Open();
+                var user = dbConnection.Query<User>(query, Email).First();
+                return user;
+            }
+        }
+        public bool EmailIsUnique(string email)
+        {
+            using(IDbConnection dbConnection = Connection)
+            {
+                var query = "SELECT id FROM users WHERE email = @EMAIL";
+                object param = new {EMAIL = email};
+                IEnumerable<User> result = dbConnection.Query<User>(query, param);
+                return result.Count() == 0;
+            }
+        }
+        public User GetUserById(int id)
+        {
+            using(IDbConnection dbConnection = Connection)
+            {
+                var query = $"SELECT * FROM users WHERE id = @USERID";
+                object myParam = new {USERID = id};
+                return dbConnection.Query<User>(query).First();
+            }
+        }
     }
 }

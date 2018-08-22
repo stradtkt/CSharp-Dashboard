@@ -13305,11 +13305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\LoginPlus.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\LoginPlus.csproj",
       "projectName": "LoginPlus",
-      "projectPath": "c:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\LoginPlus.csproj",
+      "projectPath": "C:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\LoginPlus.csproj",
       "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\obj\\",
+      "outputPath": "C:\\Users\\Kevin\\Desktop\\csharp\\coding-dojo\\LoginPlus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
